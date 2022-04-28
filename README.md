@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue JS<br><br>
 - Portofolio: <a href="https://bempime-kheve.com/">Mon Portofolio Ici</a>
 - 📫 How to reach me: <A HREF="mailto:bempime.k@gmail.com">bempime.k@gmail.com</A>
-- https://www.linkedin.com/in/bempime-kheve/
+- https://www.linkedin.com/in/bempime-kheve/<br>
+- Download my resume here:
 
 Stack:<br><br>
 HTML5<br>
