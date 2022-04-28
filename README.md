@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently stydent at IFOCOP Paris 11
-- 🌱 I’m currently learning Vue JS
+- 🌱 I’m currently learning Vue JS<br><br>
 - Portofolio: bempime-kheve.com
 - 📫 How to reach me: bempime.k@gmail.com
 - https://www.linkedin.com/in/bempime-kheve/
