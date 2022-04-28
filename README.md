@@ -7,16 +7,14 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently stydent at IFOCOP Paris 11
 - 🌱 I’m currently learning Vue JS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- Portofolio: bempime-kheve.com
 - 📫 How to reach me: bempime.k@gmail.com
 - https://www.linkedin.com/in/bempime-kheve/
 
 - ⚡ Fun fact: ...
 
 
-Stack:
+Stack:<br><br>
 HTML5<br>
 CSS3<br>
 Javascript<br>
