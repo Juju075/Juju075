@@ -5,24 +5,25 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently stydent at IFOCOP Paris 11
 - 🌱 I’m currently learning Vue JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: bempime.k@gmail.com
+- https://www.linkedin.com/in/bempime-kheve/
 
 - ⚡ Fun fact: ...
 
 
 Stack:
-HTML5
-CSS3
-Javascript
-JQuery
-Vue.js
+HTML5<br>
+CSS3<br>
+Javascript<br>
+JQuery<br>
+Vue.js<br><br>
 
-PHP 7-8
-Symfony 5-6
+PHP 7-8<br>
+Symfony 5-6<br><br>
 
-MysQl
+MysQl<br>
