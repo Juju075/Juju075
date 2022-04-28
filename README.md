@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently stydent at IFOCOP Paris 11
 - 🌱 I’m currently learning Vue JS<br><br>
-- Portofolio: bempime-kheve.com
-- 📫 How to reach me: <a href="https://bempime-kheve.com/">Mon Portofolio Ici</a>
+- Portofolio: <a href="https://bempime-kheve.com/">Mon Portofolio Ici</a>
+- 📫 How to reach me: <A HREF="mailto:bempime.k@gmail.com">bempime.k@gmail.com</A>
 - https://www.linkedin.com/in/bempime-kheve/
 
 - ⚡ Fun fact: ...
