@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Juju075/Juju075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 
 - ⚡ Fun fact: ...
--->
 
+
+Stack:
+HTML5
+CSS3
+Javascript
+JQuery
+Vue.js
+
+PHP 7-8
+Symfony 5-6
+
+MysQl
