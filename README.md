@@ -4,9 +4,10 @@
    My news:<br>
    I actually learning Vue.js<br><br>
    
-   March 2022: I was gratuated Bachelor PHP Symfony developper.<br>
-   March 2022: I was admitted to IFOCOP Paris 11<br>
-   March 2022: I'm looking for a job as front-end developper.<br>
+   during March 2022:
+   - I was gratuated Bachelor PHP Symfony developper.<br>
+   - I was admitted to IFOCOP Paris 11<br>
+   - I'm looking for a job as front-end developper.<br>
    
 Here are some ideas to get you started:
 
