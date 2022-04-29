@@ -12,8 +12,6 @@ looking for some projects i have done.<br>
    
 Here are some ideas to get you started:
 
-- 🔭I am currently studying Web developpement at IFOCOP Paris 11.
-- 🌱 I’m currently learning Vue JS<br><br>
 - My Portofolio: <a href="https://bempime-kheve.com/">Mon Portofolio Ici</a>
 - 📫 How to reach me: <A HREF="mailto:bempime.k@gmail.com">bempime.k@gmail.com</A>
 - https://www.linkedin.com/in/bempime-kheve/<br>
