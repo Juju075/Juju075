@@ -1,4 +1,5 @@
-😀 Hello welcome in my github looking for some projects i have done.<br>
+😀 Hello welcome in my github<br>
+looking for some projects i have done.<br>
    Don't forget to check my Portofolio too.<br>
    
    My news:<br>
