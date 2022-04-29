@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - Download my resume here:
 
 Stack:<br><br>
-FRONT<br><br>
+FRONT<br>
 HTML5<br>
 CSS3<br>
 Javascript<br>
 JQuery<br>
 Vue.js<br><br>
-BACK<br><br>
+BACK<br>
 PHP 7-8<br>
 Symfony 5-6<br>
 MysQl<br>
