@@ -1,7 +1,13 @@
-### Hi there 👋
-
 😀 Hello welcome in my github looking for some projects i have done.<br>
    Don't forget to check my Portofolio too.<br>
+   
+   My news:
+   I actually learning Vue.js
+   
+   March 2022: I was gratuated Bachelor PHP Symfony developper.
+   March 2022: I was admitted to IFOCOP Paris 11
+   March 2022: I'm looking for a job as front-end developper.
+   
 
 **Juju075/Juju075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
