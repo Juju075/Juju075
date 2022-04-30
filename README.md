@@ -1,9 +1,9 @@
 
-#😀 Hello welcome to my github<br>
+😀 Hello welcome to my github<br>
     looking for some projects i have done. 
    Don't forget to check my Portofolio too.<br>
    
-   ##My news:<br>
+   My news:<br>
    I actually learning Vue.js<br><br>
    
    during March 2022:
