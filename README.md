@@ -1,9 +1,9 @@
-<div>
-😀 Hello welcome to my github<br>
+
+#😀 Hello welcome to my github<br>
     looking for some projects i have done. 
    Don't forget to check my Portofolio too.<br>
    
-   My news:<br>
+   ##My news:<br>
    I actually learning Vue.js<br><br>
    
    during March 2022:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <A HREF="mailto:bempime.k@gmail.com">bempime.k@gmail.com</A>
 - https://www.linkedin.com/in/bempime-kheve/<br>
 - Download my resume here:
-</div>
+
 
 Stack:<br><br>
 FRONT<br>
