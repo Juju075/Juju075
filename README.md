@@ -12,7 +12,7 @@
    
 Here are some ideas to get you started:
 
-- My Portofolio: <a href="https://bempime-kheve.com/">Mon Portofolio Ici</a>
+- <a href="https://bempime-kheve.com/">Hall Projects pinned x6 in my Portofolio</a><br>
 - 📫 How to reach me: <A HREF="mailto:bempime.k@gmail.com">bempime.k@gmail.com</A>
 - https://www.linkedin.com/in/bempime-kheve/<br>
 - Download my resume here:
