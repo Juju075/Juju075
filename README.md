@@ -6,7 +6,10 @@
     looking for some projects i have done. 
    Don't forget to check my Portofolio too.<br>
    
-   My news:<br>
+   
+   
+   ![latest_news](https://user-images.githubusercontent.com/59140742/166129178-b49a6dd0-1793-45b9-a9f0-3900a7469031.png)
+
    I actually learning Vue.js<br><br>
    
    during March 2022:
