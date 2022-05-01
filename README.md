@@ -27,7 +27,7 @@
 
 |               |                 |               |               |               |               |
 | :------------ |:---------------:|:-------------:|:-------------:|:-------------:|--------------:|
-| Front End:    | HTML5           | CSS3          |Javascript     | JQuery        | Vue.js        |
+| Front End:    | HTML5           | CSS3 / SASS   |Javascript     | JQuery        | Vue.js        |
 |               |                 |               |               |               |               |
 | Back End:     | PHP 7-8         | Symfony 5-6   | MySQL         |               |               |
 |               |                 |               |               |               |               |
