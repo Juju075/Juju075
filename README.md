@@ -15,7 +15,7 @@
    I actually learning Vue.js<br><br>
    
    during March 2022:
-   - I was gratuated in Bachelor Developer PHP Symfony.<br>
+   - I was gratuated in Bachelor App Developper PHP Symfony.<br>
    - I was admitted to IFOCOP Paris 11<br>
    - I'm looking for a job as front-end developper.<br>
    
