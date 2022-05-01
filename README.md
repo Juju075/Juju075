@@ -29,7 +29,7 @@
 | :------------ |:---------------:|:-------------:|:-------------:|:-------------:|--------------:|
 | Front End:    | HTML5           | CSS3 / SASS   |Javascript     | JQuery        | Vue.js        |
 |               |                 |               |               |               |               |
-| Back End:     | PHP 7-8         | Symfony 5-6   | MySQL         |               |               |
+| Back End:     | PHP 7-8         | Symfony 5-6   | MySQL         |  Wordpress    |               |
 |               |                 |               |               |               |               |
 
 ![job](https://user-images.githubusercontent.com/59140742/166129416-00c7ff39-d171-4cd8-a86d-9a69ef3031d2.png)
