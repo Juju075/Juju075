@@ -29,9 +29,3 @@ Here are some ideas to get you started:
 |               |                 |               |               |               |               |
 | Back End      | PHP7-8          | Symfony5-6    | MySQL         |               |               |
 |               |                 |               |               |               |               |
-
-
-
-
-
-<style></style>
