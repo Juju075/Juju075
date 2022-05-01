@@ -35,7 +35,7 @@
 
 
 
-![job](https://user-images.githubusercontent.com/59140742/166129416-00c7ff39-d171-4cd8-a86d-9a69ef3031d2.png)Here are some ideas to get you started:![stiker](https://user-images.githubusercontent.com/59140742/166137941-74b4be93-0275-4721-a395-9e97e8b14fd5.png)
+![job](https://user-images.githubusercontent.com/59140742/166129416-00c7ff39-d171-4cd8-a86d-9a69ef3031d2.png)Here are:![stiker](https://user-images.githubusercontent.com/59140742/166137941-74b4be93-0275-4721-a395-9e97e8b14fd5.png)
 
 
 
