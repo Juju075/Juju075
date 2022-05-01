@@ -33,5 +33,4 @@ Here are some ideas to get you started:
 | Back End:     | PHP 7-8         | Symfony 5-6   | MySQL         |               |               |
 |               |                 |               |               |               |               |
 
-![job](https://user-images.githubusercontent.com/59140742/166129364-02490712-7c0a-4778-b4cc-2b603ecac82d.png)
-
+![job](https://user-images.githubusercontent.com/59140742/166129416-00c7ff39-d171-4cd8-a86d-9a69ef3031d2.png)
