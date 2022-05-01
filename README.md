@@ -39,7 +39,7 @@ PHP
 PHP 7 Quiz Niveau Intermédiaire
 
 Bases de données
-SQL Quiz Niveau Avancé (5etoiles)
+SQL Quiz Niveau Avancé
 
 JavaScript
 JavaScript ES6 Quiz Niveau Avancé
