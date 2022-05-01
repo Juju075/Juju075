@@ -1,4 +1,7 @@
 
+![cover_github](https://user-images.githubusercontent.com/59140742/166128486-08b0b6d6-5271-4afc-b971-01b5f626bf3f.png)
+
+
 😀 Hello welcome to my github<br>
     looking for some projects i have done. 
    Don't forget to check my Portofolio too.<br>
