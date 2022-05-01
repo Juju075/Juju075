@@ -1,5 +1,7 @@
 
-![cover_github](https://user-images.githubusercontent.com/59140742/166128486-08b0b6d6-5271-4afc-b971-01b5f626bf3f.png)
+![cover_github](https://user-images.githubusercontent.com/59140742/166130080-3cb54051-9fb2-4e46-88c2-a356d6bd67b9.png)
+
+
 
 
 😀 Hello welcome to my github<br>
