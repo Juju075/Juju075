@@ -28,10 +28,7 @@
 |               |                 |               |               |               |               |
 | :------------ |:---------------:|:-------------:|:-------------:|:-------------:|--------------:|
 | Front End:    | HTML5           | CSS3 / SASS   |Javascript     | JQuery        | Vue.js        |
-|               |![html5](https://user-images.githubusercontent.com/59140742/166131403-f10046bc-d10e-4152-a1d9-9aea277d4096.png)|![sass](https://user-images.githubusercontent.com/59140742/166131135-428e398f-952f-47c3-a898-168fe7e0938e.png)|![logo_js](https://user-images.githubusercontent.com/59140742/166131108-ca485fa0-e13c-4624-beaa-b0a89ed975bb.png)|![logo_jquery](https://user-images.githubusercontent.com/59140742/166131309-2d49d5dd-2cd6-4a6a-bb50-df494060d75f.jpg)|![logo_vue](https://user-images.githubusercontent.com/59140742/166131353-bd1b3c24-a5b1-4ca9-b07c-15fb8976ab6a.png)
-
-
-               |               |
+|               |![html5](https://user-images.githubusercontent.com/59140742/166131403-f10046bc-d10e-4152-a1d9-9aea277d4096.png)|![sass](https://user-images.githubusercontent.com/59140742/166131135-428e398f-952f-47c3-a898-168fe7e0938e.png)|![logo_js](https://user-images.githubusercontent.com/59140742/166131108-ca485fa0-e13c-4624-beaa-b0a89ed975bb.png)|![logo_jquery](https://user-images.githubusercontent.com/59140742/166131309-2d49d5dd-2cd6-4a6a-bb50-df494060d75f.jpg)|![logo_vue](https://user-images.githubusercontent.com/59140742/166131353-bd1b3c24-a5b1-4ca9-b07c-15fb8976ab6a.png)            
 | Back End:     | PHP 7-8         | Symfony 5-6   | MySQL         |  Wordpress    |               |
 |               |                 |               |               |               |               |
 
