@@ -20,7 +20,8 @@
    - I'm looking for a job as front-end developper.<br>
    
 
-![we_want_you](https://user-images.githubusercontent.com/59140742/166129840-257a4f98-4480-48d3-ba11-50e51edef7c5.png)
+![we_want_you](https://user-images.githubusercontent.com/59140742/166130122-1e920607-0c16-4116-bec7-9c189b526e09.png)
+
 
 
 
