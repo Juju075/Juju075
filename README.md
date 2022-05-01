@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 |               |                 |               |               |               |               |
 | :------------ |:---------------:|:-------------:|:-------------:|:-------------:|--------------:|
-| Front End     | HTML5           | CSS3          |Javascript     | JQuery        | Vue.js        |
+| Front End:    | HTML5           | CSS3          |Javascript     | JQuery        | Vue.js        |
 |               |                 |               |               |               |               |
-| Back End      | PHP7-8          | Symfony5-6    | MySQL         |               |               |
+| Back End:     | PHP7-8          | Symfony5-6    | MySQL         |               |               |
 |               |                 |               |               |               |               |
