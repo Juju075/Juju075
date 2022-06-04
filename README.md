@@ -1,4 +1,3 @@
-
 ![cover_github](https://user-images.githubusercontent.com/59140742/166130080-3cb54051-9fb2-4e46-88c2-a356d6bd67b9.png)
 
 
@@ -30,7 +29,7 @@
 | Back End:     | PHP 7-8         | Symfony 5-6   | MySQL         |     |               |               |
 |               |![logo_php](https://user-images.githubusercontent.com/59140742/166131523-3b9bb66c-ae1e-4e23-a437-96cf2139141a.jpg)|![logo_symfony](https://user-images.githubusercontent.com/59140742/166131593-012f2335-0600-4420-9f39-f83f7dafdd6a.jpg)|![logo_mysql](https://user-images.githubusercontent.com/59140742/166131843-05d7c23a-2e20-4681-9c2c-45e700184533.jpg)|               |
 | CMS:     | Wordpress     |    |         |     |               |
-||![logo_wordpress](https://user-images.githubusercontent.com/59140742/166131751-ff7b1fcb-4932-4cd4-8947-b255bc332818.png)||||||
+||![logo_wordpress](https://user-images.githubusercontent.com/59140742/166131751-ff7b1fcb-4932-4cd4-8947-b255bc332818.png)|||||![logo-photoshop](https://user-images.githubusercontent.com/59140742/171989785-b37743c4-47fe-4bb2-a9a3-b98ca8ccd242.png)|
 
 
 ![logo_skillvalue](https://user-images.githubusercontent.com/59140742/166155989-d96424a7-47ce-4541-8adb-b3e2f637e70d.png)Résultats des tests Skillvalue: réalisation en attente...
