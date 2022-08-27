@@ -37,7 +37,7 @@
 PHP
 PHP 7 Quiz Niveau Intermédiaire
 
-Bases de données
+Base de données
 SQL Quiz Niveau Avancé
 
 JavaScript
@@ -51,7 +51,7 @@ JavaScript ES6 Quiz Niveau Avancé
 - <a href="https://bempime-kheve.com/">Demo of all my projects pinned.</a><br>
 - 📫 How to reach me: <A HREF="mailto:bempime.k@gmail.com">bempime.k@gmail.com</A>
 - https://www.linkedin.com/in/bempime-kheve/<br>
-- Download my resume here:
+- Download my resume:
 
 
 
