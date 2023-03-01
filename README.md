@@ -32,17 +32,6 @@
 |     |![logo_wordpress](https://user-images.githubusercontent.com/59140742/166131751-ff7b1fcb-4932-4cd4-8947-b255bc332818.png)|||||![logo-photoshop](https://user-images.githubusercontent.com/59140742/171989785-b37743c4-47fe-4bb2-a9a3-b98ca8ccd242.png)|
 
 
-![logo_skillvalue](https://user-images.githubusercontent.com/59140742/166155989-d96424a7-47ce-4541-8adb-b3e2f637e70d.png)Résultats des tests Skillvalue: réalisation en attente...
-
-PHP
-PHP 7 Quiz Niveau Intermédiaire
-
-Base de données
-SQL Quiz Niveau Avancé
-
-JavaScript
-JavaScript ES6 Quiz Niveau Avancé
-
 
 ![job](https://user-images.githubusercontent.com/59140742/166129416-00c7ff39-d171-4cd8-a86d-9a69ef3031d2.png)Here are: <a href="https://www.linkedin.com/in/bempime-kheve/" target="_blank">![stiker](https://user-images.githubusercontent.com/59140742/166137941-74b4be93-0275-4721-a395-9e97e8b14fd5.png)</a>
 
