@@ -13,10 +13,8 @@
 
    I actually learning Vue.js<br><br>
    
-   during March 2022:
-   - I was gratuated in Bachelor of App Developper PHP Symfony.<br>
-   - I was admitted to IFOCOP Paris 11<br>
-   - I'm looking for a job as front-end developper (Contrat de professionnalisation).<br>
+   during Feuary 2023:
+    Worked as PHP Developper
    
 
 ![we_want_you](https://user-images.githubusercontent.com/59140742/166130122-1e920607-0c16-4116-bec7-9c189b526e09.png)
